@@ -10,6 +10,8 @@ namespace змейка
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("   !!  !!!");
+            Console.ReadLine();
         }
     }
 }
